@@ -1,0 +1,3014 @@
+#  ExamplePortal:
+#    world: it will be the world name
+#    triggerblock: LAVA # will only be used if the hastriggerblock is true and can be id or text
+#    pos1: # dont mess with the data here, if you do it may stop the portal from working.
+#      X:
+#      Y:
+#      Z:
+#    pos2:
+#      X:
+#      Y:
+#      Z:
+#    destination:
+#      issetpoint: true # if this was false point name would not be used and the coordinates would be saved here, it just adds more customisation.
+#      pointname: examplepoint # if issetpoint is false this wont be here and tppos will be.
+#      tppos:
+#        X:
+#        Y:
+
+hatBee:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3659
+    Y: 31
+    Z: -676
+  pos2:
+    X: -3659
+    Y: 29
+    Z: -678
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Bee
+hatBig_Smile:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3629
+    Y: 31
+    Z: -698
+  pos2:
+    X: -3629
+    Y: 29
+    Z: -700
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Big_Smile
+hatBird:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3711
+    Y: 25
+    Z: -643
+  pos2:
+    X: -3711
+    Y: 23
+    Z: -645
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Bird
+hatBlack_Chocolate_Bar:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3719
+    Y: 23
+    Z: -764
+  pos2:
+    X: -3721
+    Y: 21
+    Z: -764
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Black_Chocolate_Bar
+hatBlaze:
+  world: survival_nether
+  triggerblock: AIR
+  pos1:
+    X: -398
+    Y: 35
+    Z: -364
+  pos2:
+    X: -398
+    Y: 33
+    Z: -366
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Blaze
+hatBonnie:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -381
+    Y: -52
+    Z: -774
+  pos2:
+    X: -383
+    Y: -54
+    Z: -774
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Bonnie
+hatCactus:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3814
+    Y: 188
+    Z: 118
+  pos2:
+    X: -3816
+    Y: 186
+    Z: 118
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Cactus
+hatCanada:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3887
+    Y: 188
+    Z: 101
+  pos2:
+    X: -3887
+    Y: 186
+    Z: 99
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Canada
+hatCandy_Cane:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3934
+    Y: 188
+    Z: 106
+  pos2:
+    X: -3936
+    Y: 186
+    Z: 106
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Candy_Cane
+hatCave_Spider:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3851
+    Y: 188
+    Z: 21
+  pos2:
+    X: -3851
+    Y: 186
+    Z: 19
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Cave_Spider
+hatCheese:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -423
+    Y: -52
+    Z: -806
+  pos2:
+    X: -425
+    Y: -54
+    Z: -806
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Cheese
+hatChicken:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -411
+    Y: -52
+    Z: -777
+  pos2:
+    X: -411
+    Y: -54
+    Z: -779
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Chicken
+hatChocolate_Donut:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -410
+    Y: -47
+    Z: -718
+  pos2:
+    X: -412
+    Y: -49
+    Z: -718
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Chocolate_Donut
+hatClownfish:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -356
+    Y: -50
+    Z: -739
+  pos2:
+    X: -356
+    Y: -52
+    Z: -741
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Clownfish
+hatComputer:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3881
+    Y: 97
+    Z: -643
+  pos2:
+    X: -3883
+    Y: 95
+    Z: -643
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Computer
+hatCool:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3804
+    Y: 23
+    Z: -756
+  pos2:
+    X: -3806
+    Y: 21
+    Z: -756
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Cool
+hatCry:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3691
+    Y: 29
+    Z: -808
+  pos2:
+    X: -3693
+    Y: 27
+    Z: -808
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Cry
+hatDemon_Knight:
+  world: survival_nether
+  triggerblock: AIR
+  pos1:
+    X: -401
+    Y: 39
+    Z: -349
+  pos2:
+    X: -403
+    Y: 37
+    Z: -349
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Demon_Knight
+hatDiamond_Steve:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -477
+    Y: 25
+    Z: -825
+  pos2:
+    X: -477
+    Y: 23
+    Z: -827
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Diamond_Steve
+hatDerp:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -442
+    Y: -52
+    Z: -807
+  pos2:
+    X: -444
+    Y: -54
+    Z: -807
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Derp
+hatDoge:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -365
+    Y: -47
+    Z: -752
+  pos2:
+    X: -367
+    Y: -49
+    Z: -752
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Doge
+hatDuck:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -459
+    Y: -51
+    Z: -738
+  pos2:
+    X: -459
+    Y: -53
+    Z: -740
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Duck
+hatEarth:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -380
+    Y: -52
+    Z: -780
+  pos2:
+    X: -380
+    Y: -54
+    Z: -782
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Earth
+hatElephant:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -349
+    Y: -10
+    Z: -697
+  pos2:
+    X: -351
+    Y: -12
+    Z: -697
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Elephant
+hatEmbarrassed:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -476
+    Y: -33
+    Z: -735
+  pos2:
+    X: -478
+    Y: -35
+    Z: -735
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Embarrassed
+hatEmerald_Steve:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3881
+    Y: 97
+    Z: -625
+  pos2:
+    X: -3883
+    Y: 95
+    Z: -625
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Emerald_Steve
+hatEnder_Dragon:
+  world: survival_the_end
+  triggerblock: WATER
+  pos1:
+    X: 68
+    Y: 61
+    Z: 86
+  pos2:
+    X: 66
+    Y: 59
+    Z: 86
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Ender_Dragon
+hatEnderman:
+  world: survival_the_end
+  triggerblock: WATER
+  pos1:
+    X: 86
+    Y: 59
+    Z: 96
+  pos2:
+    X: 86
+    Y: 57
+    Z: 94
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Enderman
+hatFerret:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3680
+    Y: 11
+    Z: -710
+  pos2:
+    X: -3680
+    Y: 9
+    Z: -712
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Ferret
+hatFox:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3758
+    Y: 11
+    Z: -721
+  pos2:
+    X: -3758
+    Y: 9
+    Z: -723
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Fox
+hatFreddy_Fazbear:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3817
+    Y: 16
+    Z: -793
+  pos2:
+    X: -3817
+    Y: 14
+    Z: -795
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Freddy_Fazbear
+hatGhast:
+  world: survival_nether
+  triggerblock: AIR
+  pos1:
+    X: -417
+    Y: 130
+    Z: -375
+  pos2:
+    X: -419
+    Y: 128
+    Z: -375
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Ghast
+hatGhost:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -497
+    Y: -46
+    Z: -827
+  pos2:
+    X: -497
+    Y: -48
+    Z: -829
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Ghost
+hatGold_Steve:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -434
+    Y: -52
+    Z: -818
+  pos2:
+    X: -436
+    Y: -54
+    Z: -818
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Gold_Steve
+hatGorilla:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -381
+    Y: -1
+    Z: -680
+  pos2:
+    X: -383
+    Y: -3
+    Z: -680
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Gorilla
+hatGrin:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -466
+    Y: -22
+    Z: -718
+  pos2:
+    X: -466
+    Y: -24
+    Z: -720
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Grin
+warp1:
+  world: survival
+  triggerblock: AIR
+  pos1:
+    X: -403
+    Y: -50
+    Z: -802
+  pos2:
+    X: -410
+    Y: -54
+    Z: -802
+  portalArgs:
+    command:
+      '1': warp p1
+warp2:
+  world: survival
+  triggerblock: AIR
+  pos1:
+    X: -404
+    Y: -41
+    Z: -753
+  pos2:
+    X: -406
+    Y: -54
+    Z: -759
+  portalArgs:
+    command:
+      '1': warp p2
+warp3:
+  world: survival
+  triggerblock: AIR
+  pos1:
+    X: -461
+    Y: -49
+    Z: -755
+  pos2:
+    X: -462
+    Y: -53
+    Z: -762
+  portalArgs:
+    command:
+      '1': warp p3
+hatHamburger:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -98
+    Y: 100
+    Z: -749
+  pos2:
+    X: -100
+    Y: 98
+    Z: -749
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Hamburger
+hatHerobrine:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -370
+    Y: 121
+    Z: -1159
+  pos2:
+    X: -370
+    Y: 119
+    Z: -1161
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Herobrine
+hatHorse:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -416
+    Y: 112
+    Z: -1140
+  pos2:
+    X: -416
+    Y: 110
+    Z: -1142
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Horse
+hatIron_Golem:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -382
+    Y: 65
+    Z: -830
+  pos2:
+    X: -384
+    Y: 63
+    Z: -830
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Iron_Golem
+hatJake:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -398
+    Y: 71
+    Z: -882
+  pos2:
+    X: -398
+    Y: 69
+    Z: -884
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Jake
+hatKoala:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -376
+    Y: 72
+    Z: -857
+  pos2:
+    X: -376
+    Y: 70
+    Z: -859
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Koala
+petZombie_Villager:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -459
+    Y: -51
+    Z: -788
+  pos2:
+    X: -459
+    Y: -53
+    Z: -790
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Zombie_Villager
+petZombie:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -357
+    Y: -49
+    Z: -767
+  pos2:
+    X: -357
+    Y: -51
+    Z: -769
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Zombie
+petWorried_Panda:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3728
+    Y: 11
+    Z: -821
+  pos2:
+    X: -3730
+    Y: 9
+    Z: -821
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Worried_Panda
+petWither_Skeleton:
+  world: survival_nether
+  triggerblock: AIR
+  pos1:
+    X: -417
+    Y: 130
+    Z: -357
+  pos2:
+    X: -419
+    Y: 128
+    Z: -357
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Wither_Skeleton
+petWitch:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3686
+    Y: 11
+    Z: -717
+  pos2:
+    X: -3686
+    Y: 9
+    Z: -719
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Witch
+petWhite_Rabbit:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3848
+    Y: 190
+    Z: 64
+  pos2:
+    X: -3848
+    Y: 188
+    Z: 62
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet White_Rabbit
+petVindicator:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3888
+    Y: 194
+    Z: 39
+  pos2:
+    X: -3890
+    Y: 192
+    Z: 39
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Vindicator
+petUndead_Horse:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -491
+    Y: 30
+    Z: -792
+  pos2:
+    X: -493
+    Y: 28
+    Z: -792
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Undead_Horse
+petSpider:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -406
+    Y: 36
+    Z: -826
+  pos2:
+    X: -406
+    Y: 34
+    Z: -828
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Spider
+petStray_Skeleton:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -4016
+    Y: 218
+    Z: 74
+  pos2:
+    X: -4018
+    Y: 216
+    Z: 74
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Stray_Skeleton
+petSnowman:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3961
+    Y: 206
+    Z: 136
+  pos2:
+    X: -3961
+    Y: 204
+    Z: 134
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Snowman
+petSkeleton_Horse:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3828
+    Y: 23
+    Z: -778
+  pos2:
+    X: -3830
+    Y: 21
+    Z: -778
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Skeleton_Horse
+petSkeleton:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -392
+    Y: 113
+    Z: -1145
+  pos2:
+    X: -392
+    Y: 111
+    Z: -1147
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Skeleton
+petSiamese_Cat:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3694
+    Y: 25
+    Z: -643
+  pos2:
+    X: -3696
+    Y: 23
+    Z: -643
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Siamese_Cat
+petSalt_&_Pepper_Rabbit:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3782
+    Y: 47
+    Z: -713
+  pos2:
+    X: -3784
+    Y: 45
+    Z: -713
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Salt_&_Pepper_Rabbit
+petRed_Sheep:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3755
+    Y: 25
+    Z: -796
+  pos2:
+    X: -3757
+    Y: 23
+    Z: -796
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Red_Sheep
+petRed_Little_Helper:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3697
+    Y: 100
+    Z: -752
+  pos2:
+    X: -3697
+    Y: 98
+    Z: -754
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Red_Little_Helper
+petPriest_Villager:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -406
+    Y: 65
+    Z: -858
+  pos2:
+    X: -406
+    Y: 63
+    Z: -860
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Priest_Villager
+petPowered_Creeper:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -379
+    Y: 40
+    Z: -802
+  pos2:
+    X: -381
+    Y: 38
+    Z: -802
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Powered_Creeper
+petPlayful_Panda:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -415
+    Y: -51
+    Z: -768
+  pos2:
+    X: -415
+    Y: -53
+    Z: -770
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Playful_Panda
+petPink_Sheep:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -425
+    Y: -51
+    Z: -746
+  pos2:
+    X: -427
+    Y: -53
+    Z: -746
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Pink_Sheep
+petPig_Zombie:
+  world: survival_nether
+  triggerblock: AIR
+  pos1:
+    X: -410
+    Y: 34
+    Z: -355
+  pos2:
+    X: -412
+    Y: 32
+    Z: -355
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Pig_Zombie
+petFirerings:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3708
+    Y: 62
+    Z: -740
+  pos2:
+    X: -3710
+    Y: 60
+    Z: -740
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Cloak Firerings
+pettree2:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3723
+    Y: 62
+    Z: -756
+  pos2:
+    X: -3725
+    Y: 60
+    Z: -756
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip banner holiday_Tree
+petMushroom_Cow:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: 2050
+    Y: 74
+    Z: 198
+  pos2:
+    X: 2048
+    Y: 72
+    Z: 198
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Mushroom_Cow
+petLime_Sheep:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -432
+    Y: -51
+    Z: -801
+  pos2:
+    X: -434
+    Y: -53
+    Z: -801
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Lime_Sheep
+petIllusioner:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3883
+    Y: 92
+    Z: -655
+  pos2:
+    X: -3883
+    Y: 90
+    Z: -657
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Illusioner
+petHusk:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -420
+    Y: -52
+    Z: -701
+  pos2:
+    X: -422
+    Y: -54
+    Z: -701
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Husk
+petGreen_Little_Helper:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3736
+    Y: 104
+    Z: -748
+  pos2:
+    X: -3736
+    Y: 102
+    Z: -750
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Green_Little_Helper
+petGolem:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -370
+    Y: 83
+    Z: -848
+  pos2:
+    X: -370
+    Y: 81
+    Z: -850
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Golem
+petGold_Rabbit:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3794
+    Y: 25
+    Z: -821
+  pos2:
+    X: -3796
+    Y: 23
+    Z: -821
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Gold_Rabbit
+petEvoker:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3924
+    Y: 264
+    Z: 274
+  pos2:
+    X: -3926
+    Y: 262
+    Z: 274
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Evoker
+petEndermite:
+  world: survival_the_end
+  triggerblock: WATER
+  pos1:
+    X: 85
+    Y: 59
+    Z: 87
+  pos2:
+    X: 85
+    Y: 57
+    Z: 85
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Endermite
+petDonkey:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3705
+    Y: 11
+    Z: -785
+  pos2:
+    X: -3707
+    Y: 9
+    Z: -785
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Donkey
+petDark_Brown_Horse:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -409
+    Y: -52
+    Z: -782
+  pos2:
+    X: -411
+    Y: -54
+    Z: -782
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Dark_Brown_Horse
+petCyan_Sheep:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -460
+    Y: -51
+    Z: -745
+  pos2:
+    X: -460
+    Y: -53
+    Z: -747
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Cyan_Sheep
+petCreamy_Llama:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -393
+    Y: -23
+    Z: -812
+  pos2:
+    X: -393
+    Y: -25
+    Z: -814
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Creamy_Llama
+petChicken:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -418
+    Y: 66
+    Z: -766
+  pos2:
+    X: -418
+    Y: 64
+    Z: -768
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Chicken
+petBaby_Zombie_Villager:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -425
+    Y: -32
+    Z: -845
+  pos2:
+    X: -427
+    Y: -34
+    Z: -845
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Baby_Zombie_Villager
+petblaze:
+  world: survival_nether
+  triggerblock: AIR
+  pos1:
+    X: 7383
+    Y: 81
+    Z: 9690
+  pos2:
+    X: 7383
+    Y: 79
+    Z: 9688
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Blaze
+petBaby_Husk:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3836
+    Y: 24
+    Z: -723
+  pos2:
+    X: -3838
+    Y: 22
+    Z: -723
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Baby_Husk
+petBaby_Skeleton_Horse:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3848
+    Y: 25
+    Z: -727
+  pos2:
+    X: -3848
+    Y: 23
+    Z: -729
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Baby_Skeleton_Horse
+petBaby_Black_&_White_Rabbit:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3738
+    Y: 107
+    Z: -773
+  pos2:
+    X: -3738
+    Y: 105
+    Z: -775
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Baby_Black_&_White_Rabbit
+petBaby_Black_Rabbit:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3793
+    Y: 48
+    Z: -791
+  pos2:
+    X: -3793
+    Y: 46
+    Z: -793
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Baby_Black_Rabbit
+petBaby_Black_Sheep:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3819
+    Y: 50
+    Z: -701
+  pos2:
+    X: -3819
+    Y: 48
+    Z: -703
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Baby_Black_Sheep
+villalana2:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 1227
+    Y: 55
+    Z: 1420
+  pos2:
+    X: 1225
+    Y: 53
+    Z: 1420
+  portalArgs:
+    command:
+      '1': warp VillaLana
+KameHouse:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 1219
+    Y: 55
+    Z: 1413
+  pos2:
+    X: 1219
+    Y: 53
+    Z: 1411
+  portalArgs:
+    command:
+      '1': warp KameHouse
+ladrillera:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 1254
+    Y: 55
+    Z: 1413
+  pos2:
+    X: 1254
+    Y: 53
+    Z: 1411
+  portalArgs:
+    command:
+      '1': warp Ladrillera
+shotgun1:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: -1217
+    Y: 54
+    Z: 1683
+  pos2:
+    X: -1219
+    Y: 53
+    Z: 1683
+  portalArgs:
+    command:
+      '1': warp shotgun1
+torre:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: -1209
+    Y: 55
+    Z: 1659
+  pos2:
+    X: -1209
+    Y: 53
+    Z: 1655
+  portalArgs:
+    command:
+      '1': warp torre
+ruleta1:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: -1236
+    Y: 55
+    Z: 1644
+  pos2:
+    X: -1238
+    Y: 53
+    Z: 1644
+  portalArgs:
+    command:
+      '1': warp ruleta1
+tobogan:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1139
+    Y: 54
+    Z: 1673
+  pos2:
+    X: -1144
+    Y: 54
+    Z: 1659
+  portalArgs:
+    command:
+      '1': warp Tobogan
+ZonaSafari:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1034
+    Y: 55
+    Z: 838
+  pos2:
+    X: -1034
+    Y: 53
+    Z: 836
+  portalArgs:
+    command:
+      '1': warp ZonaSafari
+lagranja2:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1082
+    Y: 55
+    Z: 725
+  pos2:
+    X: -1084
+    Y: 53
+    Z: 725
+  portalArgs:
+    command:
+      '1': warp LaGranja
+villaverde:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1338
+    Y: 56
+    Z: 1429
+  pos2:
+    X: -1338
+    Y: 54
+    Z: 1427
+  portalArgs:
+    command:
+      '1': warp VillaVerde
+mansionfantasma:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1396
+    Y: 55
+    Z: 1473
+  pos2:
+    X: -1396
+    Y: 53
+    Z: 1471
+  portalArgs:
+    command:
+      '1': warp MansionFantasma
+ZonaSafari2:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1092
+    Y: 55
+    Z: 721
+  pos2:
+    X: -1092
+    Y: 53
+    Z: 719
+  portalArgs:
+    command:
+      '1': warp ZonaSafari
+villalana3:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 1221
+    Y: 55
+    Z: 1322
+  pos2:
+    X: 1221
+    Y: 53
+    Z: 1320
+  portalArgs:
+    command:
+      '1': warp VillaLana_Ruta2
+PuebloFantasma_Playa:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: 599
+    Y: 48
+    Z: -377
+  pos2:
+    X: 596
+    Y: 45
+    Z: -377
+  portalArgs:
+    command:
+      '1': warp PuebloFantasma_Playa
+spiritedaway_treen:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 753
+    Y: 97
+    Z: 76
+  pos2:
+    X: 751
+    Y: 95
+    Z: 76
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_Treen
+pet_pig:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 792
+    Y: 82
+    Z: -89
+  pos2:
+    X: 790
+    Y: 80
+    Z: -89
+  portalArgs:
+    command:
+      '1': gmenu equip pet Pig
+hat_Angel:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 1219
+    Y: 55
+    Z: 1419
+  pos2:
+    X: 1219
+    Y: 53
+    Z: 1417
+  portalArgs:
+    command:
+      '1': gmenu equip hat Angel
+gmenu:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1024
+    Y: 55
+    Z: 854
+  pos2:
+    X: -1026
+    Y: 53
+    Z: 854
+  portalArgs:
+    command:
+      '1': gmenu equip banner Heart
+hat_Astronaut:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 1218
+    Y: 55
+    Z: 1358
+  pos2:
+    X: 1218
+    Y: 53
+    Z: 1356
+  portalArgs:
+    command:
+      '1': gmenu equip hat Astronaut
+pet_Yellow_Sheep:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -709
+    Y: 56
+    Z: 179
+  pos2:
+    X: -711
+    Y: 54
+    Z: 179
+  portalArgs:
+    command:
+      '1': gmenu equip pet Yellow_Sheep
+pet_Red_Cat:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1073
+    Y: 55
+    Z: 715
+  pos2:
+    X: -1075
+    Y: 53
+    Z: 715
+  portalArgs:
+    command:
+      '1': gmenu equip pet Red_Cat
+pet_Wild_Ocelot:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -335
+    Y: 73
+    Z: -791
+  pos2:
+    X: -337
+    Y: 71
+    Z: -791
+  portalArgs:
+    command:
+      '1': gmenu equip pet Wild_Ocelot
+pet_Silver_Sheep:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1387
+    Y: 55
+    Z: 1477
+  pos2:
+    X: -1389
+    Y: 53
+    Z: 1477
+  portalArgs:
+    command:
+      '1': gmenu equip pet Silver_Sheep
+pet_Purple_Sheep:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -405
+    Y: 74
+    Z: -774
+  pos2:
+    X: -405
+    Y: 72
+    Z: -776
+  portalArgs:
+    command:
+      '1': gmenu equip pet Purple_Sheep
+pet_Silverfish:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1062
+    Y: 55
+    Z: 818
+  pos2:
+    X: -1062
+    Y: 53
+    Z: 816
+  portalArgs:
+    command:
+      '1': gmenu equip pet Silverfish
+pet_Orange_Sheep:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1018
+    Y: 55
+    Z: 845
+  pos2:
+    X: -1020
+    Y: 53
+    Z: 845
+  portalArgs:
+    command:
+      '1': gmenu equip pet Orange_Sheep
+pet_Cow:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -495
+    Y: 55
+    Z: 426
+  pos2:
+    X: -497
+    Y: 53
+    Z: 426
+  portalArgs:
+    command:
+      '1': gmenu equip pet Cow
+hat_Cow:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -507
+    Y: 55
+    Z: 424
+  pos2:
+    X: -509
+    Y: 53
+    Z: 424
+  portalArgs:
+    command:
+      '1': gmenu equip hat Cow
+hat_Bee:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 728
+    Y: 95
+    Z: -56
+  pos2:
+    X: 726
+    Y: 93
+    Z: -56
+  portalArgs:
+    command:
+      '1': gmenu equip hat Bee
+pet_Baby_Black_Horse:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1096
+    Y: 55
+    Z: 1022
+  pos2:
+    X: -1096
+    Y: 53
+    Z: 1020
+  portalArgs:
+    command:
+      '1': gmenu equip pet Baby_Black_Horse
+hat_Beach_Ball:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 1245
+    Y: 55
+    Z: 1315
+  pos2:
+    X: 1243
+    Y: 53
+    Z: 1315
+  portalArgs:
+    command:
+      '1': gmenu equip hat Beach_Ball
+hat_Australia:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1108
+    Y: 55
+    Z: 714
+  pos2:
+    X: -1108
+    Y: 53
+    Z: 712
+  portalArgs:
+    command:
+      '1': gmenu equip hat Australia
+pet_White_Horse:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -359
+    Y: 55
+    Z: 696
+  pos2:
+    X: -361
+    Y: 53
+    Z: 696
+  portalArgs:
+    command:
+      '1': gmenu equip pet White_Horse
+hat_Dead:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -934
+    Y: 55
+    Z: 969
+  pos2:
+    X: -936
+    Y: 53
+    Z: 969
+  portalArgs:
+    command:
+      '1': gmenu equip hat Dead
+lagranja_1:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1262
+    Y: 56
+    Z: 1439
+  pos2:
+    X: -1264
+    Y: 54
+    Z: 1439
+  portalArgs:
+    command:
+      '1': warp LaGranja
+springfield_1:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1249
+    Y: 56
+    Z: 1439
+  pos2:
+    X: -1251
+    Y: 54
+    Z: 1439
+  portalArgs:
+    command:
+      '1': warp Simpson
+PuebloFantasma_Playa_2:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1313
+    Y: 55
+    Z: 1459
+  pos2:
+    X: -1315
+    Y: 53
+    Z: 1459
+  portalArgs:
+    command:
+      '1': warp PuebloFantasma_Playa
+SpiritedAway_Mision_1:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 587
+    Y: 84
+    Z: -79
+  pos2:
+    X: 585
+    Y: 82
+    Z: -79
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_Mision_1
+SpiritedAway_Calderas:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: 1040
+    Y: 274
+    Z: -124
+  pos2:
+    X: 1038
+    Y: 263
+    Z: -126
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_Calderas
+SpiritedAway_Calderas_2:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 1040
+    Y: 266
+    Z: -125
+  pos2:
+    X: 1038
+    Y: 264
+    Z: -127
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_Calderas
+SpiritedAway_yubaba_entrada1_entrada:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: 738
+    Y: 148
+    Z: 66
+  pos2:
+    X: 734
+    Y: 145
+    Z: 66
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_yubaba_entrada1_entrada
+SpiritedAway_yubaba_entrada2_entrada:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: 1021
+    Y: 284
+    Z: -132
+  pos2:
+    X: 1019
+    Y: 281
+    Z: -132
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_yubaba_entrada2_entrada
+SpiritedAway_yubaba_entrada1_salida:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: 1040
+    Y: 284
+    Z: -132
+  pos2:
+    X: 1036
+    Y: 281
+    Z: -132
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_yubaba_entrada1_salida
+SpiritedAway_asencor_yubaba_bajada:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: 704
+    Y: 147
+    Z: 45
+  pos2:
+    X: 701
+    Y: 144
+    Z: 44
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_asencor_yubaba_bajada
+SpiritedAway_asencor_2_bajada:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: 735
+    Y: 130
+    Z: 39
+  pos2:
+    X: 735
+    Y: 127
+    Z: 36
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_asencor_2_bajada
+SpiritedAway_Criadero_De_Cerdos:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 744
+    Y: 97
+    Z: 78
+  pos2:
+    X: 744
+    Y: 95
+    Z: 76
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_Criadero_De_Cerdos
+SpiritedAway_Mision_2:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 597
+    Y: 84
+    Z: -79
+  pos2:
+    X: 595
+    Y: 82
+    Z: -79
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_Mision_2
+SpiritedAway_Mision_3:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 607
+    Y: 84
+    Z: -78
+  pos2:
+    X: 605
+    Y: 82
+    Z: -79
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_Mision_3
+SpiritedAway_Mision_4:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 617
+    Y: 84
+    Z: -75
+  pos2:
+    X: 615
+    Y: 82
+    Z: -76
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_Mision_4
+SpiritedAway_Mision_5:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 626
+    Y: 84
+    Z: -75
+  pos2:
+    X: 624
+    Y: 82
+    Z: -75
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_Mision_5
+SpiritedAway_Mision_6:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 646
+    Y: 84
+    Z: -67
+  pos2:
+    X: 644
+    Y: 82
+    Z: -68
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_Mision_6
+SpiritedAway_Mision_7:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 637
+    Y: 84
+    Z: -75
+  pos2:
+    X: 635
+    Y: 82
+    Z: -75
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_Mision_7
+SpiritedAway_Mision_8:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 629
+    Y: 84
+    Z: -68
+  pos2:
+    X: 627
+    Y: 82
+    Z: -68
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_Mision_8
+SpiritedAway_Mision_9:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 619
+    Y: 84
+    Z: -67
+  pos2:
+    X: 617
+    Y: 82
+    Z: -67
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_Mision_9
+SpiritedAway_Mision_10:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 604
+    Y: 84
+    Z: -67
+  pos2:
+    X: 602
+    Y: 82
+    Z: -67
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_Mision_10
+SpiritedAway_Mision_11:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: 592
+    Y: 84
+    Z: -68
+  pos2:
+    X: 590
+    Y: 82
+    Z: -68
+  portalArgs:
+    command:
+      '1': warp SpiritedAway_Mision_11
+SpawnRPG:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1328
+    Y: 55
+    Z: 1450
+  pos2:
+    X: -1330
+    Y: 53
+    Z: 1450
+  portalArgs:
+    command:
+      '1': warp SpawnRPG
+rpg_vip:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1321
+    Y: 55
+    Z: 1467
+  pos2:
+    X: -1323
+    Y: 53
+    Z: 1467
+  portalArgs:
+    command:
+      '1': warp rpg_vip
+hat_Hamburger:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1393
+    Y: 55
+    Z: 1465
+  pos2:
+    X: -1395
+    Y: 53
+    Z: 1465
+  portalArgs:
+    command:
+      '1': gmenu equip hat Hamburger
+panel-montura_golem:
+  world: recursos
+  triggerblock: WATER
+  pos1:
+    X: -370
+    Y: 82
+    Z: -848
+  pos2:
+    X: -370
+    Y: 80
+    Z: -850
+  portalArgs:
+    command:
+      '1': cp panel-montura_golem
+monturas_1:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -1338
+    Y: 55
+    Z: 1460
+  pos2:
+    X: -1340
+    Y: 53
+    Z: 1460
+  portalArgs:
+    command:
+      '1': cp Monturas
+movie_parkour:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: -1182
+    Y: 54
+    Z: 72
+  pos2:
+    X: -1183
+    Y: 50
+    Z: 52
+  portalArgs:
+    command:
+      '1': warp movie_parkour
+parkour_leave_simpson:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: -765
+    Y: 39
+    Z: 478
+  pos2:
+    X: -766
+    Y: 38
+    Z: 476
+  portalArgs:
+    command:
+      '1': warp parkour_leave_simpson
+toboganes_simpsons:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: -1040
+    Y: 59
+    Z: 388
+  pos2:
+    X: -1044
+    Y: 56
+    Z: 388
+  portalArgs:
+    command:
+      '1': warp toboganes_simpsons
+KrostyLandia:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -785
+    Y: 56
+    Z: 166
+  pos2:
+    X: -787
+    Y: 54
+    Z: 166
+  portalArgs:
+    command:
+      '1': warp KrostyLandia
+planta_nuclear:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3705
+    Y: 63
+    Z: -743
+  pos2:
+    X: -3705
+    Y: 61
+    Z: -745
+  portalArgs:
+    command:
+      '1': warp planta_nuclear
+pig2:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -415
+    Y: 66
+    Z: -762
+  pos2:
+    X: -415
+    Y: 64
+    Z: -764
+  portalArgs:
+    command:
+      '1': gmenu equip pet pig
+p1:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -370
+    Y: 0
+    Z: -782
+  pos2:
+    X: -370
+    Y: -2
+    Z: -784
+  portalArgs:
+    command:
+      '1': warp p1
+simgatblack:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -617
+    Y: 56
+    Z: 314
+  pos2:
+    X: -619
+    Y: 54
+    Z: 314
+  portalArgs:
+    command:
+      '1': gmenu equip pet Black_Cat
+springfieldpatio:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -626
+    Y: 65
+    Z: 305
+  pos2:
+    X: -626
+    Y: 63
+    Z: 303
+  portalArgs:
+    command:
+      '1': warp springfieldpatio
+granjadehomero:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -935
+    Y: 50
+    Z: 298
+  pos2:
+    X: -935
+    Y: 48
+    Z: 296
+  portalArgs:
+    command:
+      '1': warp granjadehomero
+plantanuclear1:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -789
+    Y: 76
+    Z: -260
+  pos2:
+    X: -791
+    Y: 74
+    Z: -260
+  portalArgs:
+    command:
+      '1': warp plantanuclear
+Salida_Planta_Nuclear1:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: -898
+    Y: 56
+    Z: -230
+  pos2:
+    X: -898
+    Y: 54
+    Z: -236
+  portalArgs:
+    command:
+      '1': warp Salida_Planta_Nuclear
+Salida_Planta_Nuclear2:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: -898
+    Y: 56
+    Z: -266
+  pos2:
+    X: -898
+    Y: 54
+    Z: -270
+  portalArgs:
+    command:
+      '1': warp Salida_Planta_Nuclear
+Salida_Planta_Nuclear3:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: -728
+    Y: 56
+    Z: -319
+  pos2:
+    X: -734
+    Y: 54
+    Z: -319
+  portalArgs:
+    command:
+      '1': warp Salida_Planta_Nuclear
+Salida_Planta_Nuclear4:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: -650
+    Y: 56
+    Z: -230
+  pos2:
+    X: -650
+    Y: 54
+    Z: -236
+  portalArgs:
+    command:
+      '1': warp Salida_Planta_Nuclear
+plantanuclear2:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: -927
+    Y: 57
+    Z: -54
+  pos2:
+    X: -940
+    Y: 53
+    Z: -54
+  portalArgs:
+    command:
+      '1': warp plantanuclear_entrada
+plantanuclear3:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -940
+    Y: 50
+    Z: 304
+  pos2:
+    X: -942
+    Y: 48
+    Z: 303
+  portalArgs:
+    command:
+      '1': warp plantanuclear
+tiendavip:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -940
+    Y: 50
+    Z: 291
+  pos2:
+    X: -942
+    Y: 48
+    Z: 290
+  portalArgs:
+    command:
+      '1': warp tiendavip
+kitpvpaldeaninja:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3837
+    Y: 190
+    Z: 58
+  pos2:
+    X: -3839
+    Y: 188
+    Z: 58
+  portalArgs:
+    command:
+      '1': warp AldeaNinja
+trunks3:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3916
+    Y: 287
+    Z: 265
+  pos2:
+    X: -3916
+    Y: 285
+    Z: 263
+  portalArgs:
+    command:
+      '1': warp ciudadcorp
+gohan4:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3936
+    Y: 287
+    Z: 265
+  pos2:
+    X: -3936
+    Y: 285
+    Z: 263
+  portalArgs:
+    command:
+      '1': warp villalana
+roshi2:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3925
+    Y: 287
+    Z: 253
+  pos2:
+    X: -3927
+    Y: 285
+    Z: 253
+  portalArgs:
+    command:
+      '1': warp KameHouse
+warpMontañaRusa:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: 1237
+    Y: 57
+    Z: 1429
+  pos2:
+    X: 1236
+    Y: 54
+    Z: 1425
+  portalArgs:
+    command:
+      '1': warp MontañaRusa
+yubabamision1:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3720
+    Y: 63
+    Z: -737
+  pos2:
+    X: -3722
+    Y: 61
+    Z: -737
+  portalArgs:
+    command:
+      '1': warp seniba_granero
+jamesmisionash:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3712
+    Y: 62
+    Z: -735
+  pos2:
+    X: -3712
+    Y: 60
+    Z: -737
+  portalArgs:
+    command:
+      '1': warp LaGranja
+jamesmisionpikachu:
+  world: survival
+  triggerblock: WATER
+  pos1:
+    X: -3705
+    Y: 63
+    Z: -754
+  pos2:
+    X: -3705
+    Y: 61
+    Z: -756
+  portalArgs:
+    command:
+      '1': warp PlantaElectrica
+gim1:
+  world: twd2
+  triggerblock: WATER
+  pos1:
+    X: -942
+    Y: 55
+    Z: 1384
+  pos2:
+    X: -942
+    Y: 53
+    Z: 1382
+  portalArgs:
+    command:
+      '1': warp CasasRondantes
+salida_concierto:
+  world: twd2
+  triggerblock: AIR
+  pos1:
+    X: -1176
+    Y: 54
+    Z: 1671
+  pos2:
+    X: -1176
+    Y: 53
+    Z: 1659
+  portalArgs:
+    command:
+      '1': warp Salida_Concierto
+survival1:
+  world: survival
+  triggerblock: AIR
+  pos1:
+    X: -411
+    Y: 67
+    Z: -774
+  pos2:
+    X: -415
+    Y: 63
+    Z: -776
+  portalArgs:
+    command:
+      '1': commandpanel survival
+tienda:
+  world: survival
+  triggerblock: AIR
+  pos1:
+    X: -3871
+    Y: 93
+    Z: -633
+  pos2:
+    X: -3871
+    Y: 90
+    Z: -636
+  portalArgs:
+    command:
+      '1': back
+piso1_1:
+  world: Dungeons
+  triggerblock: WATER
+  pos1:
+    X: 94
+    Y: 192
+    Z: 339
+  pos2:
+    X: 94
+    Y: 189
+    Z: 335
+  portalArgs:
+    command:
+      '1': warp Piso_1
+otroladodellago:
+  world: survival
+  triggerblock: AIR
+  pos1:
+    X: 9829
+    Y: 79
+    Z: 10048
+  pos2:
+    X: 9829
+    Y: 71
+    Z: 10042
+  portalArgs:
+    command:
+      '1': warp lago
+portalnether4:
+  world: survival_nether
+  triggerblock: AIR
+  pos1:
+    X: 178
+    Y: 64
+    Z: 729
+  pos2:
+    X: 178
+    Y: 62
+    Z: 727
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip gadget Gold_Fountain
+portalnether3:
+  world: survival_nether
+  triggerblock: AIR
+  pos1:
+    X: 237
+    Y: 68
+    Z: 758
+  pos2:
+    X: 235
+    Y: 66
+    Z: 758
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Demon_Knight
+portalnether2:
+  world: survival_nether
+  triggerblock: AIR
+  pos1:
+    X: 228
+    Y: 67
+    Z: 737
+  pos2:
+    X: 228
+    Y: 65
+    Z: 735
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip Hat Blaze
+portalnether1:
+  world: survival_nether
+  triggerblock: AIR
+  pos1:
+    X: 223
+    Y: 62
+    Z: 753
+  pos2:
+    X: 221
+    Y: 60
+    Z: 753
+  portalArgs:
+    command:
+      '1': gadgetsmenu equip pet Pig_Zombie
+rtp2:
+  world: FullPvP
+  triggerblock: WATER
+  pos1:
+    X: 9
+    Y: 119
+    Z: -9
+  pos2:
+    X: 4
+    Y: 116
+    Z: -9
+  portalArgs:
+    command:
+      '1': rtp
+rtp1:
+  world: FullPvP
+  triggerblock: WATER
+  pos1:
+    X: 9
+    Y: 119
+    Z: 9
+  pos2:
+    X: 4
+    Y: 116
+    Z: 9
+  portalArgs:
+    command:
+      '1': rtp
+botpvp1:
+  world: FullPvP
+  triggerblock: AIR
+  pos1:
+    X: 9
+    Y: 124
+    Z: 9
+  pos2:
+    X: 9
+    Y: 115
+    Z: -9
+  portalArgs:
+    command:
+      '1': kb join botpvp
+botpvp2:
+  world: FullPvP
+  triggerblock: AIR
+  pos1:
+    X: 9
+    Y: 124
+    Z: 9
+  pos2:
+    X: -9
+    Y: 115
+    Z: 9
+  portalArgs:
+    command:
+      '1': kb join botpvp
+botpvp3:
+  world: FullPvP
+  triggerblock: AIR
+  pos1:
+    X: -9
+    Y: 124
+    Z: 9
+  pos2:
+    X: -9
+    Y: 115
+    Z: -9
+  portalArgs:
+    command:
+      '1': kb join botpvp
+botpvp4:
+  world: FullPvP
+  triggerblock: AIR
+  pos1:
+    X: 9
+    Y: 124
+    Z: -9
+  pos2:
+    X: -9
+    Y: 115
+    Z: -10
+  portalArgs:
+    command:
+      '1': kb join botpvp
+botpvp5:
+  world: FullPvP
+  triggerblock: AIR
+  pos1:
+    X: 9
+    Y: 124
+    Z: 9
+  pos2:
+    X: -9
+    Y: 124
+    Z: -9
+  portalArgs:
+    command:
+      '1': kb join botpvp
+endup:
+  world: skydungeons_the_end
+  triggerblock: WATER
+  pos1:
+    X: 88
+    Y: 86
+    Z: 8
+  pos2:
+    X: 87
+    Y: 49
+    Z: 7
+  portalArgs:
+    command:
+      '1': heal
+endp2:
+  world: skydungeons_the_end
+  triggerblock: WATER
+  pos1:
+    X: 91
+    Y: 51
+    Z: 8
+  pos2:
+    X: 89
+    Y: 49
+    Z: 8
+  portalArgs:
+    command:
+      '1': warp endp2
+endp3:
+  world: skydungeons_the_end
+  triggerblock: WATER
+  pos1:
+    X: 91
+    Y: 57
+    Z: 8
+  pos2:
+    X: 89
+    Y: 55
+    Z: 8
+  portalArgs:
+    command:
+      '1': warp endp3
+endp4:
+  world: skydungeons_the_end
+  triggerblock: WATER
+  pos1:
+    X: 91
+    Y: 64
+    Z: 8
+  pos2:
+    X: 89
+    Y: 62
+    Z: 8
+  portalArgs:
+    command:
+      '1': warp endp4
+endp5:
+  world: skydungeons_the_end
+  triggerblock: WATER
+  pos1:
+    X: 91
+    Y: 71
+    Z: 8
+  pos2:
+    X: 89
+    Y: 69
+    Z: 8
+  portalArgs:
+    command:
+      '1': warp endp5
+endp6:
+  world: skydungeons_the_end
+  triggerblock: WATER
+  pos1:
+    X: 91
+    Y: 78
+    Z: 8
+  pos2:
+    X: 89
+    Y: 76
+    Z: 8
+  portalArgs:
+    command:
+      '1': warp endp6
+tiendap2:
+  world: skydungeons
+  triggerblock: WATER
+  pos1:
+    X: 4
+    Y: 205
+    Z: 16
+  pos2:
+    X: 2
+    Y: 203
+    Z: 16
+  portalArgs:
+    command:
+      '1': warp tiendap2
+tiendap3:
+  world: skydungeons
+  triggerblock: WATER
+  pos1:
+    X: 4
+    Y: 211
+    Z: 16
+  pos2:
+    X: 2
+    Y: 209
+    Z: 16
+  portalArgs:
+    command:
+      '1': warp tiendap3
+tiendap4:
+  world: skydungeons
+  triggerblock: WATER
+  pos1:
+    X: 13
+    Y: 219
+    Z: 17
+  pos2:
+    X: 11
+    Y: 216
+    Z: 16
+  portalArgs:
+    command:
+      '1': warp tiendap4
+tiendap5:
+  world: skydungeons
+  triggerblock: WATER
+  pos1:
+    X: 12
+    Y: 226
+    Z: 17
+  pos2:
+    X: 10
+    Y: 223
+    Z: 16
+  portalArgs:
+    command:
+      '1': warp tiendap5
+tiendap6:
+  world: skydungeons
+  triggerblock: WATER
+  pos1:
+    X: 12
+    Y: 233
+    Z: 17
+  pos2:
+    X: 10
+    Y: 230
+    Z: 16
+  portalArgs:
+    command:
+      '1': warp tiendap6
+tiendaheal:
+  world: skydungeons
+  triggerblock: WATER
+  pos1:
+    X: 1
+    Y: 239
+    Z: 16
+  pos2:
+    X: -1
+    Y: 203
+    Z: 16
+  portalArgs:
+    command:
+      '1': heal
+p1rtp1:
+  world: FullPvP
+  triggerblock: WATER
+  pos1:
+    X: -19
+    Y: 63
+    Z: -8
+  pos2:
+    X: -19
+    Y: 61
+    Z: -11
+  portalArgs:
+    command:
+      '1': rtp
+p1rtp2:
+  world: FullPvP
+  triggerblock: WATER
+  pos1:
+    X: -9
+    Y: 63
+    Z: -19
+  pos2:
+    X: -13
+    Y: 61
+    Z: -19
+  portalArgs:
+    command:
+      '1': rtp
+p1rtp3:
+  world: FullPvP
+  triggerblock: WATER
+  pos1:
+    X: -1
+    Y: 64
+    Z: -8
+  pos2:
+    X: -1
+    Y: 61
+    Z: -12
+  portalArgs:
+    command:
+      '1': rtp
+kb:
+  world: FullPvP
+  triggerblock: WATER
+  pos1:
+    X: -7
+    Y: 69
+    Z: -18
+  pos2:
+    X: -9
+    Y: 67
+    Z: -18
+  portalArgs:
+    command:
+      '1': kb leave
+spawnnether:
+  world: skydungeons
+  triggerblock: AIR
+  pos1:
+    X: 11
+    Y: 179
+    Z: -5
+  pos2:
+    X: 5
+    Y: 169
+    Z: -7
+  portalArgs:
+    command:
+      '1': warp nether
+spawnend:
+  world: skydungeons
+  triggerblock: AIR
+  pos1:
+    X: 9
+    Y: 167
+    Z: 11
+  pos2:
+    X: 7
+    Y: 165
+    Z: 5
+  portalArgs:
+    command:
+      '1': warp end
+rtpnether:
+  world: survival_nether
+  triggerblock: WATER
+  pos1:
+    X: 113
+    Y: 48
+    Z: -155
+  pos2:
+    X: 111
+    Y: 46
+    Z: -155
+  portalArgs:
+    command:
+      '1': rtp
+rtpend:
+  world: survival_the_end
+  triggerblock: WATER
+  pos1:
+    X: -39
+    Y: 63
+    Z: -79
+  pos2:
+    X: -41
+    Y: 61
+    Z: -79
+  portalArgs:
+    command:
+      '1': rtp

@@ -1,7 +1,19 @@
 [
   {
+    "uuid": "e75630e4-3ef4-4c84-ba66-148388c51b5e",
+    "name": "EverNeverYT",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "948c755e-c2e9-334a-ae35-3db09e2b67a7",
     "name": "EverNeverYT",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2c526b0e-fb26-3217-924a-249defd43eb0",
+    "name": "everneveryt+",
     "level": 4,
     "bypassesPlayerLimit": false
   }

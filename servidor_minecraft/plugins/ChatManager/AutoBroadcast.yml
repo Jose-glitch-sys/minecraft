@@ -1,0 +1,105 @@
+Auto_Broadcast:
+  Global_Messages:
+    Enable: false
+    Header_And_Footer: true
+    Interval: 30
+    Prefix: "&b&k:&e&k;&a&k:&c&k;&e⚔&a&lS&b&lu&c&lr&d&lv&e&li&a&lv&b&la&c&ll&e⚔&b&k:&e&k;&a&k:&c&k;&e⚠&r" 
+    Header: "&a&m-&b&m-&c&m-&e&m-&a&m-&b&m-&c&m-&e&m-&a&m-&b&m-&c&m-&e&m-&a&m-&b&m-&c&m-&e&m-&a&m-&b&m-&c&m-&e&m-&a&m-&b&m-&c&m-&e&m-&a&m-&b&m-&c&m-&e&m-"
+    Footer: "&a&m-&b&m-&c&m-&e&m-&a&m-&b&m-&c&m-&e&m-&a&m-&b&m-&c&m-&e&m-&a&m-&b&m-&c&m-&e&m-&a&m-&b&m-&c&m-&e&m-&a&m-&b&m-&c&m-&e&m-&a&m-&b&m-&c&m-&e&m-"
+    sound:
+      toggle: false
+      value: 'ENTITY_PLAYER_LEVELUP'
+      pitch: 1
+      volume: 1
+    Messages:
+      - "&ePrimer Mision Diaria Del Server&b pesca y cambia los pescados con un vendedor en las playas!" 
+  Per_World_Messages:
+    Enable: false
+    Header_And_Footer: false
+    Interval: 200
+    Prefix: "&7[&6AutoBroadcast&7] &r"
+    Header: "&7*&7&m--------------------------------&7*"
+    Footer: "&7*&7&m--------------------------------&7*"
+    sound:
+      toggle: false
+      value: 'ENTITY_PLAYER_LEVELUP'
+      pitch: 1
+      volume: 1
+    Messages:
+      survival:  
+        - "&eHanK0_0 &7Fue &cAsesinad@ &7Por: &cVaquitaBlock &a[&eNivel 1&a]"
+        - "&eHanK0_0 &7Fue &cAsesinad@ &7Por: &cGoblin Minero &a[&eNivel 1&a]"
+  Actionbar_Messages:
+    Enable: false
+    Interval: 60
+    Prefix: "&7[&6AutoBroadcast&7] &r"
+    sound:
+      toggle: false
+      value: 'ENTITY_PLAYER_LEVELUP'
+      pitch: 1.0
+      volume: 1.0
+    Messages:
+      - "{prefix}&7Auto-Broadcast action bar message."
+      - "{prefix}&7Plugin created by H1DD3NxN1NJA."
+      - "{prefix}&7Hello &c{player} &7there are &c{online} &7players online."
+  Title_Messages:
+    Enable: false
+    Interval: 60
+    sound:
+      toggle: false
+      value: 'ENTITY_PLAYER_LEVELUP'
+      pitch: 1.0
+      volume: 1.0
+    Title: "&cTitle"
+    Messages:
+      - "&7Auto-Broadcast title message."
+      - "&7Plugin created by H1DD3NxN1NJA."
+      - "&7Hello &c{player} &7there are &c{online} &7players online."
+  Bossbar_Messages: # 1.9+
+    Enable: false
+    Interval: 60
+    sound:
+      toggle: false
+      value: 'ENTITY_PLAYER_LEVELUP'
+      pitch: 1.0
+      volume: 1.0
+    Bar_Time: 10 # How long the boss bar stays on for.
+    Messages:
+      - "&eN&co&et&ci&ec&ci&ea&cs&e: &fProximamente 20 enemigos  nuevos en el nether!"
+      - "&eN&co&et&ci&ec&ci&ea&cs&e: &fProximamente 20 enemigos  nuevos en el End!"
+      - "&eN&co&et&ci&ec&ci&ea&cs&e: &fProximamente 30 enemigos bajo el agua!"
+      - "&eN&co&et&ci&ec&ci&ea&cs&e: &fNuevas 50 estructuras nuevas en el nether"
+      - "&eN&co&et&ci&ec&ci&ea&cs&e: &fNuevas 10 estructuras nuevas en el End"
+      - "&eN&co&et&ci&ec&ci&ea&cs&e: &fNuevas 80 estructuras nuevas en el mundo survival"
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
